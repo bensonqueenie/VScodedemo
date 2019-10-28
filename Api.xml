@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HelloWorld</name>
+    </assembly>
+    <members>
+        <member name="M:HelloWorld.Controllers.TestApiController.testapi(System.String)">
+            <summary>
+            Api
+            </summary>
+            <param name="name">測試用</param>
+            <returns>status:true</returns>
+        </member>
+    </members>
+</doc>
